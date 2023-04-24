@@ -1,3 +1,1 @@
-# best-repo-ever changes in myfeaturebranch2
-
-# best-repo-ever change in Repo: README.md
+# best-repo-ever change for Merge Conflict
